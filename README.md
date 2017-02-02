@@ -1,2 +1,3 @@
 # learning
-playing with UI-roundup stuff
+This branch is for UI-Roundup exercises and learning
+
